@@ -1,1 +1,1 @@
-m.daocloud.io/docker.io/budtmo/docker-android:emulator_11.0
+budtmo/docker-android
