@@ -1,1 +1,1 @@
-docker.io/budtmo/docker-android:emulator_11.0:latest
+budtmo/docker-android：emulator_11.0
