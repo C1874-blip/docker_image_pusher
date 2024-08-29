@@ -1,1 +1,1 @@
-emptysuns/scrcpy-web
+emptysuns/scrcpy-web:v0.1
