@@ -1,1 +1,1 @@
-budtmo/docker-android
+scrcpy-web
