@@ -1,1 +1,1 @@
-webtop:latest
+docker-webtop:latest
