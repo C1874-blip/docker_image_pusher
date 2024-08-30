@@ -1,1 +1,1 @@
-docker-webtop:latest
+linuxserver/webtop
