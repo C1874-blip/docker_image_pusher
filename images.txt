@@ -1,1 +1,1 @@
-linuxserver/webtop
+linuxserver/webtop:ubuntu-kde
